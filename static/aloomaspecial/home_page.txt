@@ -1,0 +1,48 @@
+      <br><br><br><br>
+    <div class="containeralooma" id="contact" style="text-align: left;">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 0px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">How much does a standard porta potty rental cost?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Average porta potty rental prices range from $85–$130/week. Final cost depends on location, duration, and service frequency, especially in high-demand states like Texas or Florida.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Can I get a porta potty delivered today?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes. Same day porta potty rental is available in most metropolitan areas in California, Florida, Texas, Georgia, and Arizona, subject to availability.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Do you offer ADA units nationwide? 
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes. ADA compliant portable toilets are available in all 50 states, with same-week delivery in most regions.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How often are construction site units serviced?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Standard service is once per week for crews of 10+. High-traffic sites may require twice-weekly cleanings, customized per project nationwide.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What’s the minimum rental period?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">One day for standard and residential units. Some luxury or trailer rentals require 2–3 days, but not for basic portable toilet rental.</p>
+                <div class="callalooma mx-auto"><a href="tel:888-341-5226">Click Here To Call Us (888) 341-5226</a></div>
+            </div>
+        </div>
+        </section>
+       </div>
+
+
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">States In USA</h2>
+        <div class="row">
+            aloomaidallfotter
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Most popular cities we serve</h2>
+        <div class="row">
+            aloomaidallfottecity
+        </div>
+        </section>
+    </div>
